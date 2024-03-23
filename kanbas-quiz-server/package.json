@@ -1,0 +1,27 @@
+{
+  "type": "module",
+  "name": "kanbas-quiz-server",
+  "version": "1.0.0",
+  "description": "server for the project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anhhoangt/kanbas-quiz-server.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "anh hoang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anhhoangt/kanbas-quiz-server/issues"
+  },
+  "homepage": "https://github.com/anhhoangt/kanbas-quiz-server#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.1"
+  }
+}
